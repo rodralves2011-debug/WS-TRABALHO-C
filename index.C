@@ -36,7 +36,7 @@ int main() {
 
     }
 
-    printf("\nNavio Horizontal (4 partes):\n");
+    printf("\nNavio Horizontal (4 partes):\n\n");
     for (int i = 0; i < 4; i++) {
         printf("Parte %d -> linha: %d | Coluna %d\n", i + 1, navioHorizontal[i][0], navioHorizontal[i][1]);
     }
